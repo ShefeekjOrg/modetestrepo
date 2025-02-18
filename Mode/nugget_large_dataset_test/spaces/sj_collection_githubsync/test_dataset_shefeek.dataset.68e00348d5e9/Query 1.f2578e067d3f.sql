@@ -1,1 +1,1 @@
-/*Committed from github*/ select 1;
+/*Committed from github new*/ select 1;
