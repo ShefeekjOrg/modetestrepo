@@ -1,1 +1,1 @@
-SELECT 1
+/*Testing Definitions */ SELECT 1
