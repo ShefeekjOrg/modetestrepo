@@ -1,1 +1,1 @@
-/*Commiting from Mode  to github */ select * from tutorial.us_housing_units
+/*Commiting from Github to Mode */ select * from tutorial.us_housing_units
