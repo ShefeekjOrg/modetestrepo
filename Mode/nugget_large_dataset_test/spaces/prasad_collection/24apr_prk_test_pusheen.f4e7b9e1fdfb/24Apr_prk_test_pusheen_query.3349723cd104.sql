@@ -1,1 +1,1 @@
-SELECT 'testfrom-mode-beta';
+SELECT 'testfrom-mode-beta1';
