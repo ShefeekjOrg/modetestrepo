@@ -1,1 +1,1 @@
-select * from tutorial.us_housing_units
+/*testing*/ select * from tutorial.us_housing_units;
