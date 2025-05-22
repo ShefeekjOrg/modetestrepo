@@ -1,0 +1,1 @@
+select * from tutorial.crunchbase_companies
