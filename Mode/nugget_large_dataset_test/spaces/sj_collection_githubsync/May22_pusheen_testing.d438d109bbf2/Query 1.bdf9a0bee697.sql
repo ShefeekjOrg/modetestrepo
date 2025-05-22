@@ -1,1 +1,1 @@
-select * from tutorial.us_housing_units
+/*jhsdsds*/select * from tutorial.us_housing_units
