@@ -1,1 +1,1 @@
-/*From Mode--10th Sept..Non verified adssdscommitsdsdfsfds*/select * from tutorial.us_housing_units
+/*From Mode--10th Sept..Non vsdsderified adssdscommitsdsdfsfds*/select * from tutorial.us_housing_units
