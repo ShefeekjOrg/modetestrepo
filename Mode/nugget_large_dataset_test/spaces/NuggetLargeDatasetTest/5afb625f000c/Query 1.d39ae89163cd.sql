@@ -1,0 +1,1 @@
+select * from ts_info.tables;
