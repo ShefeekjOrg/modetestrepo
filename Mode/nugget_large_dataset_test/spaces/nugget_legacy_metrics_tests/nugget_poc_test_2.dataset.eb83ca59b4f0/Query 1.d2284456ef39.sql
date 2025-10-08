@@ -1,1 +1,0 @@
-select * from vijay_test_data.test_data_200cols_balanced_1gb;
