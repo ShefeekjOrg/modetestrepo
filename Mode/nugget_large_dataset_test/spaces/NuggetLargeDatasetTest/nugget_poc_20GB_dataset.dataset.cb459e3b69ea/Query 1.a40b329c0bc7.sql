@@ -1,0 +1,1 @@
+SELECT * FROM vijay_test_data.test_data_200cols_balanced_20gb;
