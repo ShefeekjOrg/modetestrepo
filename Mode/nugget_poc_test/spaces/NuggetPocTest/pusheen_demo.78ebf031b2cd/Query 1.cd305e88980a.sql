@@ -1,4 +1,4 @@
-/*Committing from pusheen demo*/
+/*Committing from pusheen demo... Github---Mode*/
   SELECT 
 		collection_name,
 		collection_token,
