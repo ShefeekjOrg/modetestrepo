@@ -1,1 +1,1 @@
-select * from vijay_test_data.test_data_200cols_balanced_10gb
+select * from vijay_test_data.test_data_200cols_balanced_1gb limit 400000;
